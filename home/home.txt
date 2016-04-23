@@ -8,6 +8,8 @@ Yay! If you are seeing this, the installation of Kirby worked. :)
 
 Let's see if git works...
 
+Dit is henk Demo
+
 ## Get started
 
 - Go to the (link: panel text: panel) to give Kirby's admin interface a try
