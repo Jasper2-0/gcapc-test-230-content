@@ -2,7 +2,11 @@ Title: Home
 
 ----
 
-Text: Yay! If you are seeing this, the installation of Kirby worked. :)
+Text: 
+
+Yay! If you are seeing this, the installation of Kirby worked. :)
+
+Let's see if git works...
 
 ## Get started
 
