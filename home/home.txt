@@ -10,6 +10,8 @@ Let's see if git works...
 
 Dit is henk Demo
 
+Dit is de indesign demo
+
 ## Get started
 
 - Go to the (link: panel text: panel) to give Kirby's admin interface a try
